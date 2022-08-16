@@ -1,6 +1,7 @@
-title: "m3xw3ll´s blog"
+title: "mexwell´s blog"
+url: "m3xw3ll.github.io"
 author: "Maximilian Finsterwald"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+description: "Made with ❤️"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -17,13 +18,15 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html"}
-  - {file: "README.md"}
+  - {file: "about.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:maximilian.finsterwald@googlemail.com"}
+  - {title: Mail, icon: envelope, url: "mailto:maximilian.finsterwald@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/m3xw3ll"}
   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/maximilian-finsterwald/"}
-  - {title: Subscribe, icon: square-rss, url: "/feed.xml"}
+  - {title: Xing, icon: xing, url: "https://www.xing.com/profile/Maximilian_Finsterwald/cv"}
+  - {title: Instagram, icon: instagram, url: "https://www.instagram.com/__mexwell/"}
+
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/

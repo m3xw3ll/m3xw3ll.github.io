@@ -15,21 +15,21 @@ More information coming soon.
 <br>
 <br>
 <h2>Languages and Tools</h2>
-<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" width="50px"/>
-<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" width="50px" />
-<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" width="50px" />
-<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" width="50px" />  
-<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" width="50px" />
+<img style="margin: 10px" src="/assets/icons/python.svg" alt="Python" width="40px" />
+<img style="margin: 10px" src="/assets/icons/django.svg" alt="Django" width="40px" />
+<img style="margin: 10px" src="/assets/icons/pytorch.svg" alt="pytorch" width="40px" />
+<img style="margin: 10px" src="/assets/icons/tensorflow.svg" alt="TensorFlow" width="40px" />  
+<img style="margin: 10px" src="/assets/icons/javascript.svg" alt="JavaScript" width="40px" />
 <br>
-<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" width="50px" />  
-<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" width="50px" />  
-<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" width="50px" />  
-<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" width="50px" />
-<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" width="50px" />
+<img style="margin: 10px" src="/assets/icons/jquery.svg" alt="jQuery" width="40px" />  
+<img style="margin: 10px" src="/assets/icons/html5.svg" alt="HTML5" width="40px" />  
+<img style="margin: 10px" src="/assets/icons/css3.svg" alt="CSS3" width="40px" />  
+<img style="margin: 10px" src="/assets/icons/gnubash.svg" alt="Bash" width="40px" />
+<img style="margin: 10px" src="/assets/icons/bootstrap.svg" alt="Bootstrap" width="40px" />
 <br>
-<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" width="50px" />  
-<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" width="50px" />  
-<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" width="50px" />
-<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" width="50px" />  
-<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" width="50px" />
+<img style="margin: 10px" src="/assets/icons/mysql.svg" alt="MySQL" width="40px" />  
+<img style="margin: 10px" src="/assets/icons/git.svg" alt="Git" width="40px" />  
+<img style="margin: 10px" src="/assets/icons/tableau.svg" alt="Tableau" width="40px" />
+<img style="margin: 10px" src="/assets/icons/docker.svg" alt="Docker" width="40px" />  
+<img style="margin: 10px" src="/assets/icons/linux.svg" alt="Linux" width="40px" />
 </div>
